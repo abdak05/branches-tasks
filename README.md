@@ -1,4 +1,7 @@
 # branches-tasks
+## Feature 3
+
+This is my third branch.
 ## Feature 2
 
 This is my second branch.
